@@ -1,12 +1,12 @@
 # Project -10 Tailwind CSS
 
-- ## In this Project I have build gaming landing page. [Project-10](https://app.netlify.com/sites/fsjs2-12th-dec-project-10/settings/general)
+- ## In this Project I have build gaming landing page. [Project-10](https://fsjs2-12th-dec-project-10.netlify.app/)
 
 - ## I have build this entire UI of gaming landing page with Tailwind CSS.
 
 ---
 
-- [Gaming landing page Project Live Link](https://app.netlify.com/sites/fsjs2-12th-dec-project-10/settings/general)
+- [Gaming landing page Project Live Link](https://fsjs2-12th-dec-project-10.netlify.app/)
 
 ## Time-taken: 5hrs
 
