@@ -1,6 +1,6 @@
 # Project -10 (Tailwind CSS) Gaming landing page Project
 
-- ## In this Project I have build gaming landing page. [Project-10](https://inspiring-sunflower-97efd1.netlify.app/)
+- ## In this Project I have build gaming landing page. [Project-10](https://fsjs2-12th-dec-project-10.netlify.app/)
 
 - ## I have build this entire UI of gaming landing page with Tailwind CSS.
 
@@ -11,6 +11,8 @@
 - [Findcoder Link](https://www.findcoder.io/project/gaming-landing-page/639b82171c43201156fb4fb2)
 - [Youtube Link](https://www.youtube.com/channel/UCBNc9Vs9mAFxnAKjzWRqDFQ)
 - [Hashnode Link](https://atulsinghatul.hashnode.dev/)
+
+- [Gaming landing page Project Live Link](https://fsjs2-12th-dec-project-10.netlify.app/)
 
 ## Time-taken: 5hrs
 
