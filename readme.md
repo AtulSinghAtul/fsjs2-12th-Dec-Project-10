@@ -12,8 +12,6 @@
 - [Youtube Link](https://www.youtube.com/channel/UCBNc9Vs9mAFxnAKjzWRqDFQ)
 - [Hashnode Link](https://atulsinghatul.hashnode.dev/)
 
-- [Gaming landing page Project Live Link](https://fsjs2-12th-dec-project-10.netlify.app/)
-
 ## Time-taken: 5hrs
 
 - ### _Time taken to write HTML_ - ![time taken](https://img.shields.io/badge/01-hrs-orange)
