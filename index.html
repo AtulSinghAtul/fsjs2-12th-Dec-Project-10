@@ -51,10 +51,10 @@
         <ul
           class="flex flex-row justify-around items-center gap-8 text-white max24:hidden"
         >
-          <li>Home</li>
-          <li>Categories</li>
-          <li>How it work</li>
-          <li>Pricing</li>
+          <li class="hover:text-red-400">Home</li>
+          <li class="hover:text-red-400">Categories</li>
+          <li class="hover:text-red-400">How it work</li>
+          <li class="hover:text-red-400">Pricing</li>
         </ul>
 
         <div class="flex flex-row justify-center items-center gap-4">
@@ -62,7 +62,7 @@
             Sign In
           </button>
           <button
-            class="text-white max24:px-3 max24:py-2 sm:px-4 sm:py-2 xl:px-6 xl:py-2 bg-[#F4694C] max24:text-[11px] sm:text-[14px]"
+            class="text-white max24:px-3 max24:py-2 sm:px-4 sm:py-2 xl:px-6 xl:py-2 bg-[#F4694C] max24:text-[11px] sm:text-[14px] hover:bg-white hover:text-red-400"
           >
             Sign Up
           </button>
@@ -92,8 +92,14 @@
           <div
             class="flex flex-row justify-center items-center gap-6 max24:mt-4 w-[100%] lg:w-fit"
           >
-            <button class="bg-[#F4694C] px-4 py-2">Get started</button>
-            <button class="border-2 border-gray-400 px-4 py-2">
+            <button
+              class="bg-[#F4694C] px-4 py-2 hover:bg-white hover:text-red-400"
+            >
+              Get started
+            </button>
+            <button
+              class="border-2 border-gray-400 px-4 py-2 hover:text-white hover:bg-red-500"
+            >
               Learn more
             </button>
           </div>
@@ -145,7 +151,9 @@
               <img class="w-[60px]" src="./Assets/Icons/5stars.svg" alt="" />
             </div>
 
-            <button class="px-4 py-2 text-white bg-[#F4694C] text-[11px]">
+            <button
+              class="px-4 py-2 text-white bg-[#F4694C] text-[11px] hover:bg-white hover:text-red-400"
+            >
               Download
             </button>
           </div>
@@ -163,7 +171,9 @@
               <img class="w-[60px]" src="./Assets/Icons/5stars.svg" alt="" />
             </div>
 
-            <button class="px-4 py-2 text-white bg-[#F4694C] text-[11px]">
+            <button
+              class="px-4 py-2 text-white bg-[#F4694C] text-[11px] hover:bg-white hover:text-red-400"
+            >
               Download
             </button>
           </div>
@@ -182,7 +192,9 @@
               <img class="w-[60px]" src="./Assets/Icons/5stars.svg" alt="" />
             </div>
 
-            <button class="px-4 py-2 text-white bg-[#F4694C] text-[11px]">
+            <button
+              class="px-4 py-2 text-white bg-[#F4694C] text-[11px] hover:bg-white hover:text-red-400"
+            >
               Download
             </button>
           </div>
@@ -201,7 +213,9 @@
               <img class="w-[60px]" src="./Assets/Icons/5stars.svg" alt="" />
             </div>
 
-            <button class="px-4 py-2 text-white bg-[#F4694C] text-[11px]">
+            <button
+              class="px-4 py-2 text-white bg-[#F4694C] text-[11px] hover:bg-white hover:text-red-400"
+            >
               Download
             </button>
           </div>
@@ -240,11 +254,13 @@
             class="mt-8 max24:flex max24:flex-col max24:justify-center max24:items-center max24:gap-8 w-[100%]"
           >
             <button
-              class="text-white text-[13px] bg-[#B05F12] px-8 py-3 xl:mr-8"
+              class="text-white text-[13px] bg-[#B05F12] px-8 py-3 xl:mr-8 hover:bg-white hover:text-red-400"
             >
               Explore Now
             </button>
-            <button class="border-2 border-[#B05F12] px-7 py-2 text-[#B05F12]">
+            <button
+              class="border-2 border-[#B05F12] px-7 py-2 text-[#B05F12] hover:bg-[#B05F12] hover:text-white"
+            >
               Learn More
             </button>
           </div>
@@ -264,7 +280,7 @@
         </div>
 
         <div
-          class="grid max24:grid-cols-1 sm:justify-items-center sm:items-center xl:grid-cols-[_.5fr_.5fr] xl:grid-rows-2 xl:justify-between xl:items-start gap-20 lg:gap-14 mt-28 w-[100%]"
+          class="grid max24:grid-cols-1 sm:justify-items-center sm:items-center xl:grid-cols-[_.2fr_.2fr] xl:grid-rows-2 xl:justify-between xl:items-start gap-20 lg:gap-14 mt-28 w-[100%]"
         >
           <!-- game card 1st -->
 
@@ -294,7 +310,7 @@
               </p>
               <div class="mt-8 max24:w-[100%] sm:w-fit">
                 <button
-                  class="text-white text-[13px] bg-[#F4694C] sm:px-6 sm:py-3 px-8 py-4 xl:px-8 xl:py-4 mr-8 sm:mr-0"
+                  class="text-white text-[13px] bg-[#F4694C] sm:px-6 sm:py-3 px-8 py-4 xl:px-8 xl:py-4 mr-8 sm:mr-0 animate-pulse hover:bg-white hover:text-[#B05F12] border border-[#B05F12]"
                 >
                   Explore Now
                 </button>
@@ -328,7 +344,7 @@
               </p>
               <div class="mt-8 max24:w-[100%]">
                 <button
-                  class="text-white text-[13px] bg-[#F4694C] sm:px-6 sm:py-3 px-8 py-4 xl:px-8 xl:py-4 mr-8"
+                  class="text-white text-[13px] bg-[#F4694C] sm:px-6 sm:py-3 px-8 py-4 xl:px-8 xl:py-4 mr-8 animate-pulse hover:bg-white hover:text-[#B05F12] border border-[#B05F12]"
                 >
                   Explore Now
                 </button>
@@ -362,7 +378,7 @@
               </p>
               <div class="mt-8 max24:w-[100%]">
                 <button
-                  class="text-white text-[13px] bg-[#F4694C] sm:px-6 sm:py-3 px-8 py-4 xl:px-8 xl:py-4 mr-8"
+                  class="text-white text-[13px] bg-[#F4694C] sm:px-6 sm:py-3 px-8 py-4 xl:px-8 xl:py-4 mr-8 animate-pulse hover:bg-white hover:text-[#B05F12] border border-[#B05F12]"
                 >
                   Explore Now
                 </button>
@@ -397,7 +413,7 @@
               </p>
               <div class="mt-8 max24:w-[100%]">
                 <button
-                  class="text-white text-[13px] bg-[#F4694C] sm:px-6 sm:py-3 px-8 py-4 xl:px-8 xl:py-4 mr-8"
+                  class="text-white text-[13px] bg-[#F4694C] sm:px-6 sm:py-3 px-8 py-4 xl:px-8 xl:py-4 mr-8 animate-pulse hover:bg-white hover:text-[#B05F12] border border-[#B05F12]"
                 >
                   Explore Now
                 </button>
@@ -510,30 +526,30 @@
           </div>
         </div>
         <ul class="flex flex-col justify-center items-start gap-3 text-white">
-          <li><strong>Articles</strong></li>
-          <li>Crowdfunding</li>
-          <li>Website donations</li>
-          <li>Careers</li>
-          <li>Event registrations</li>
-          <li>Newsrooms</li>
+          <li class="hover:text-red-400"><strong>Articles</strong></li>
+          <li class="hover:text-red-400">Crowdfunding</li>
+          <li class="hover:text-red-400">Website donations</li>
+          <li class="hover:text-red-400">Careers</li>
+          <li class="hover:text-red-400">Event registrations</li>
+          <li class="hover:text-red-400">Newsrooms</li>
         </ul>
         <ul class="flex flex-col justify-center items-start gap-3 text-white">
-          <li><strong>Leagues</strong></li>
-          <li>Our story</li>
-          <li>Comunity driven</li>
-          <li>Our customer</li>
-          <li>Expert support</li>
+          <li class="hover:text-red-400"><strong>Leagues</strong></li>
+          <li class="hover:text-red-400">Our story</li>
+          <li class="hover:text-red-400">Comunity driven</li>
+          <li class="hover:text-red-400">Our customer</li>
+          <li class="hover:text-red-400">Expert support</li>
         </ul>
         <ul class="flex flex-col justify-center items-start gap-3 text-white">
-          <li><strong>Team</strong></li>
-          <li>About us</li>
-          <li>FAQ</li>
-          <li>Privacy & Policy</li>
-          <li>Help</li>
+          <li class="hover:text-red-400"><strong>Team</strong></li>
+          <li class="hover:text-red-400">About us</li>
+          <li class="hover:text-red-400">FAQ</li>
+          <li class="hover:text-red-400">Privacy & Policy</li>
+          <li class="hover:text-red-400">Help</li>
         </ul>
         <ul class="flex flex-col justify-center items-start gap-3 text-white">
-          <li><strong>Get in touch</strong></li>
-          <li>(704)555-0127</li>
+          <li class="hover:text-red-400"><strong>Get in touch</strong></li>
+          <li class="hover:text-red-400">(704)555-0127</li>
         </ul>
       </div>
 
