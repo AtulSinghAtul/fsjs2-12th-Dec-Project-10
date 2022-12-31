@@ -32,4 +32,5 @@
 
 ![time taken](https://img.shields.io/badge/Project-10-green) ![time taken](https://img.shields.io/badge/Gaming%20Landing%20Page-Tailwind%20%26%20CSS-blue)
 
-![Project 10](./Gaming%20Landing%20Page.png)
+
+![gaming page](https://user-images.githubusercontent.com/112545072/210151263-bd32a5f9-0f92-4f3b-ac0a-2a6fdfa7bd52.png)
