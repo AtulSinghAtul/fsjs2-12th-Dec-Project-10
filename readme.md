@@ -6,11 +6,14 @@
 
 ---
 
-- [ Live Link](https://fsjs2-12th-dec-project-10.netlify.app/)
+- ## [Project Live Link](https://fsjs2-12th-dec-project-10.netlify.app/)
 
-- [Findcoder Link](https://www.findcoder.io/project/gaming-landing-page/639b82171c43201156fb4fb2)
-- [Youtube Link](https://www.youtube.com/channel/UCBNc9Vs9mAFxnAKjzWRqDFQ)
-- [Hashnode Link](https://atulsinghatul.hashnode.dev/)
+> ### Social Media Links:
+
+- ### [Portfolio Website Link](https://www.findcoder.io/u/atulsinghatul)
+- ### [Linkedin Link](https://www.linkedin.com/in/atul-singh-082529249/)
+- ### [Youtube Link](https://www.youtube.com/channel/UCBNc9Vs9mAFxnAKjzWRqDFQ)
+- ### [Hashnode Link](https://atulsinghatul.hashnode.dev/)
 
 ## Time-taken: 5hrs
 
